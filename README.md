@@ -1,2 +1,4 @@
 # hello-world
-Repo para Exercício 1 Ifood/Cubos Academy
+
+Repositório para Exercício 1 do Curso FullStack do Ifood/Cubos Academy
+
